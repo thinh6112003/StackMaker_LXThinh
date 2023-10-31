@@ -59,14 +59,14 @@
     <Compile Include="Assets\_Game\Script\Brick.cs" />
     <Compile Include="Assets\_Game\ScriptableObject\LevelItem.cs" />
     <Compile Include="Assets\_Game\Script\LevelManager.cs" />
+    <Compile Include="Assets\_Game\Script\LevelButton.cs" />
+    <Compile Include="Assets\_Game\Script\Singleton.cs" />
     <Compile Include="Assets\_Game\Script\Color.cs" />
     <Compile Include="Assets\_Game\Script\Unbrick.cs" />
     <Compile Include="Assets\_Game\ScriptableObject\ListLevelScriptableObject.cs" />
     <Compile Include="Assets\_Game\Script\FinishPos.cs" />
     <Compile Include="Assets\_Game\Script\UIManager.cs" />
     <Compile Include="Assets\_Game\Script\Player.cs" />
-    <Compile Include="Assets\_Game\Script\Singleton.cs" />
-    <Compile Include="Assets\_Game\Script\LevelButton.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

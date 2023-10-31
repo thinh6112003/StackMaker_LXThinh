@@ -78,7 +78,6 @@ public class Player : MonoBehaviour
             Destroy(other.gameObject);
             Brick mauBrick = other.gameObject.GetComponent<Brick>();
             ColorBrick mauCuaBrick = mauBrick.ColorOfBrick;
-            Debug.LogError(i);
             i++;
             if (brickList.Count == 0)
             {

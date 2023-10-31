@@ -347,6 +347,7 @@
 "Assets/_Game/Script/Brick.cs"
 "Assets/_Game/Script/Color.cs"
 "Assets/_Game/Script/FinishPos.cs"
+"Assets/_Game/Script/LevelButton.cs"
 "Assets/_Game/Script/LevelManager.cs"
 "Assets/_Game/Script/Player.cs"
 "Assets/_Game/Script/Singleton.cs"
